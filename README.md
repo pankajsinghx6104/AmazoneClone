@@ -1,1 +1,1 @@
-# Amazone Clone
+# AmazoneClone
